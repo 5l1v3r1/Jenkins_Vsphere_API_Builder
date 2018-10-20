@@ -1,40 +1,5 @@
 # Jenkins_Vsphere_API_Builder
 
-                                                  
-                  `-/oyhyyyyyys+-`               
-                -+osyho:.......:+sho.             
-             `+s++so:.............-+ho`           
-            `hsoyh:.....--.........-+dh.          
-           +dyo++d..../sso:........//+yh`         
-          :m+osssh...-o-...............y:         
-         -ydosssyo........./:.../-...:/+s         
-       .sddmyhhyy+.......-/:y/..-y:.+oy/ms.       
-     `/dhsms/o+ydy.......-/++-...:so:--:dhd+`     
-    `odssym.:s+/+:................-+y/.+hsyds`    
-   `sdssssdo.:................/..-:/y:.yysssds`   
-   @+msssssydy++s-..........-::+so+++o+/dssssymo@   
-  @.mysssssssyhmo...-.....-//+sss+ss/:hysssssym@  
-  omsssssssssshd-...-+-....:osooo+-./hysssssssmo  
-  hhssssssssssydy-...-++:....-::--:odmhysssssshh  
-  dhsssssssyhhdhdh+::--+yyo/:://ohdmhyddhysssshd  
-  hhssssyhddhyyyyhdy+/shyhhddysydhyydhyydmyssshd  
-  odsssddhyyyyhhhhhhhhdsssssydydhssshdhhhmssssds  
-  -myssddyyhhhhhhhhhhhhyssssydsoshhyhdhhdysssym:  
-   sdssymhshhhhhhhhhhhhdyyhyoyo.-/o/sdhddssssds   
-   `hdsshmyyhhhhhhdhhhhhdmo///y+:++ohhhmysssdh`   
-    @ydssdhyhhhhhhdyyhhhhdhys++h/sshhhdhyyhhm:    
-     `odyymshhhhhddhhhhhhhhdddddmmddddmhso:.:h-   
-       :hdmyyhhhhddho+/::-----:/dhhm+/h`-:.  /h`  
-        `@dhyhhhhhhy           .yhhm+ y.`::. .d:  
-          yhyhhhhhhd`          .shhdh`s/---..:d.  
-          odddhhhhhd:          .odhdm++/ohssos:   
-          @./ohddddds          ./yom@`    ``      
-               .:/+om.         `/+.h@             
-                    s@         `:s-ss             
-                    .d.        @-ms+.             
-                     /hyso++++osyh'               
-                       @..----..@                
-                       
 https://jenkins.io/   
 
 
